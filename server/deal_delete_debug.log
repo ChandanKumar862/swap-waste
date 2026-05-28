@@ -1,0 +1,4 @@
+[2026-05-21T18:27:13.726Z] DELETE ID: 6a0f4b8998d2776edd8d7d1e
+  - req.user.id (JWT): "6a0f493998d2776edd8d7cea"
+  - deal.buyer_id: "6a0f493998d2776edd8d7cea" (parsed: "6a0f493998d2776edd8d7cea")
+  - deal.seller_id: "69e77f86a4c5ef0cf2e8fd86" (parsed: "69e77f86a4c5ef0cf2e8fd86")
